@@ -1,0 +1,10 @@
+
+build/
+DerivedData/
+.DS_Store
+
+**/*.xcodeproj/xcuserdata/
+**/*.xcworkspace/
+**/.swiftpm/xcode/xcuserdata/
+
+**/*.playground/**/timeline.xctimeline
